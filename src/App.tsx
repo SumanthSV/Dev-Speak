@@ -220,7 +220,7 @@ function App() {
         {/* Header */}
         <div className="text-center mb-6">
           <h1 className="text-4xl md:text-5xl font-bold text-white mb-3 bg-gradient-to-r from-purple-300 to-blue-300 bg-clip-text text-transparent">
-            DevSpeak
+            Dev-Speak
           </h1>
           {/* <p className="text-lg text-purple-200 mb-4 max-w-2xl mx-auto leading-relaxed">
             Ask me questions using your voice and get answers as if you're talking directly to Sumanth SV, 
